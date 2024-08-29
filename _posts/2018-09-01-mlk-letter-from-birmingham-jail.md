@@ -9,7 +9,7 @@ video:
 comments: false
 ---
 
-## Department Discussion
+## Department Discussion of *Letter from a Birmingham Jail*
 
 <div style="padding: 20px 0">
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/TkctFinGgFQ?si=TEsgqCJfMIE_vYUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -20,7 +20,7 @@ comments: false
 </div> -->
 
 
-## Text of the *Letter from Birmingham Jail*
+## *Letter from a Birmingham Jail*
 
 by Dr. Martin Luther King, Jr.
 
