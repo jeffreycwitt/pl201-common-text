@@ -11,6 +11,10 @@ comments: false
 
 ## Department Discussion
 
+<div style="padding: 20px 0">
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/TkctFinGgFQ?si=TEsgqCJfMIE_vYUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 <!-- <div style="padding: 20px 0">
 <iframe src="https://studentsloyola-my.sharepoint.com/personal/jcwitt_loyola_edu/_layouts/15/embed.aspx?UniqueId=5aa360eb-190b-4388-949f-fa20381c549a&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="100%" height="360" frameborder="0" scrolling="no" allowfullscreen title="FA20 Common Text Discussion on MLK Letter.mp4"></iframe>
 </div> -->
