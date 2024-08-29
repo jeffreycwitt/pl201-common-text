@@ -9,9 +9,9 @@ video:
 comments: false
 ---
 
-## Department Discussion of *Letter from a Birmingham Jail*
+## Department Discussion
 
-<div style="padding: 20px 0">
+<div style="padding: 30px 0">
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/TkctFinGgFQ?si=TEsgqCJfMIE_vYUs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
@@ -20,7 +20,9 @@ comments: false
 </div> -->
 
 
-## *Letter from a Birmingham Jail*
+## The Text
+
+*Letter from a Birmingham Jail*
 
 by Dr. Martin Luther King, Jr.
 

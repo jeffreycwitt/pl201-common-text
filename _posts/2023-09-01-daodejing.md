@@ -8,7 +8,7 @@ toc: false
 comments: false
 ---
 
-## Department Discussion
+<!-- ## Department Discussion -->
 
 
 <!-- <div style="padding: 20px 0">
@@ -17,9 +17,13 @@ comments: false
 
 <!-- https://terebess.hu/english/tao/ChengLin.html#Kap20 -->
 
-## Text of the *Daodejing*
+<!-- ## The Text  -->
 
-### 20
+<!-- *Daodejing*
+
+by Loazi -->
+
+### *Daodejing* 20
 
 Respect and insolence, - are they really different?
 

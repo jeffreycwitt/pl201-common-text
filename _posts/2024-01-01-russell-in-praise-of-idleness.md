@@ -7,13 +7,15 @@ video:
 comments: false
 ---
 
-## Department Discussion of *In Praise of Idleness*
+## Department Discussion
 
-<div>
+<div style="padding: 30px 0">
 <iframe width="100%" height="360" src="https://www.youtube.com/embed/pLifSnGKGMc?si=TuAOGiQx6EpApLLs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-## *In Praise of Idleness*
+## The Text
+
+*In Praise of Idleness*
 
 By Bertrand Russell
 
