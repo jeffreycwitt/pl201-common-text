@@ -4,7 +4,7 @@ title:  "MLK: Letter from Birmingham Jail"
 subtitle: "2020-2021 Common Text"
 categories: [  ]
 tags: [ ]
-image: https://teachingamericanhistory.org/content/uploads/2021/09/MLK_mugshot_birmingham-1.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/8/84/Martin_Luther_King_Jr_NYWTS.jpg
 video: 
 comments: false
 ---
